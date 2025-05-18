@@ -1,4 +1,4 @@
-# Simple Tabs Project
+# Simple Cookie-Consent
 
 A simple project that demonstrates tab switching using HTML, CSS, and JavaScript.
 
